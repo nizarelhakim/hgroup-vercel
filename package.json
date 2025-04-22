@@ -1,6 +1,7 @@
 {
   "name": "hgroup-vercel-site",
   "version": "1.0.0",
+  "type": "module"
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -19,8 +20,5 @@
     "tailwindcss": "^4.1.4",
     "vite": "^6.3.2"
   }
-  {
-  "type": "module"
-}
-
+ 
 }

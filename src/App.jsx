@@ -1,5 +1,5 @@
 import { Card, CardContent } from "@/components/ui/card.jsx";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/button.jsx";
 import { motion } from "framer-motion";
 
 export default function HGroupHomePage() {
